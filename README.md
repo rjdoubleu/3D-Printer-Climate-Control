@@ -24,31 +24,31 @@ In total there were 8 individual components comprised of a space heater, two smo
 
 ### Dehumidifier 
 
-<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Dehumidifier/Dehumidifier%20Fan.PNG" width="200"/>
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Dehumidifier/Dehumidifier%20Fan.PNG" width="300"/>
 
-<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Dehumidifier/Fan%20with%20Peltier%20Chip.PNG" width="200"/>
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Dehumidifier/Fan%20with%20Peltier%20Chip.PNG" width="300"/>
 
-<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Dehumidifier/Buck%20Converter.PNG" width="200"/>
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Dehumidifier/Buck%20Converter.PNG" width="300"/>
 
-<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Dehumidifier/Fully%20Assemblyed%20Dehum.PNG" width="200"/>
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Dehumidifier/Fully%20Assemblyed%20Dehum.PNG" width="300"/>
 
 ### Climate Sensors
 
-<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Climate%20Sensors/Climate%20Sensors.PNG" width="200"/>
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Climate%20Sensors/Climate%20Sensors.PNG" width="300"/>
 
-<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Climate%20Sensors/Climate%20Sensor%20Breadboard.jpg" width="200"/>
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Climate%20Sensors/Climate%20Sensor%20Breadboard.jpg" width="300"/>
 
 ### Heater
 
-<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Heater/IoT%20Switch.PNG" width="200"/>
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Heater/IoT%20Switch.PNG" width="300"/>
 
-<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Heater/Space%20Heater.PNG" width="200"/>
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Heater/Space%20Heater.PNG" width="300"/>
 
 ### Charcoal Filter
 
-<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Charcoal%20Filter/Filter%20Bypass.PNG" width="200"/>
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Charcoal%20Filter/Filter%20Bypass.PNG" width="300"/>
 
-<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Charcoal%20Filter/Filter%20Bypass.PNG" width="200"/>
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Charcoal%20Filter/Assembled%20Filter.jpg" width="300"/>
 
 
 
