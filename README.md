@@ -17,12 +17,12 @@ In total there were 8 individual components comprised of a space heater, two smo
 ## Custom Hardware
 All custom hardware was designed in Tinkercad.
 
-![Base Plate](https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/basePlate.png)
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/basePlate.png" width="200">
 
-![PSU Mounting](https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/before.PNG)
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/before.PNG" width="200">
 
-![Dehumidifier Enclosure](https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/dehumEnc.PNG)
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/dehumEnc.PNG" width="200">
 
-![Dehumidifier Fan Enclosure](https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/fan%20fitment%20p2.PNG)
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/fan%20fitment%20p2.PNG" width="200">
 
-![Valve Stems](https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/valveStems.png) 
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/valveStems.png" width="200">
