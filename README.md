@@ -22,6 +22,10 @@ In total there were 8 individual components comprised of a space heater, two smo
 
 ## Components
 
+### Controllers
+
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Controllers/Arduino%20and%20RPi.PNG" width="300"/>
+
 ### Dehumidifier 
 
 <img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Dehumidifier/Dehumidifier%20Fan.PNG" width="300"/>
