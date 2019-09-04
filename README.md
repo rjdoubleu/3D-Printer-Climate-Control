@@ -15,9 +15,9 @@ In total there were 8 individual components comprised of a space heater, two smo
 
 ## Software
 
-<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Software%20Images/Sample%20Output.PNG" width="200">
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Software%20Images/Sample%20Output.PNG">
 
-<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Software%20Images/octoPrint%20Screen.PNG" width="200">
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Software%20Images/octoPrint%20Screen.PNG" width="800">
 
 
 ## Components
