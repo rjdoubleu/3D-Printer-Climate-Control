@@ -13,6 +13,8 @@ In total there were 8 individual components comprised of a space heater, two smo
 
 ## Project Image Reel
 
+## Components
+
 
 ## Custom Hardware
 All custom hardware was designed in Tinkercad.
