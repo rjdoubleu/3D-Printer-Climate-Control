@@ -12,3 +12,9 @@ This project utilized a RPi and Arduino to manage the various systems at play. R
 In total there were 8 individual components comprised of a space heater, two smoke detectors, two temperature and humidity sensors, two bypass valves, and a dehumidifier. This large feature set was incredibly challenging to implement successfully in addition to the design of 5 custom 3d printed and designed parts including valve stems, the dehumidifier enclosure, the PSU relocation bracket, and the charcoal filter mounting tray. In retrospect, implementing all of this custom design for a project lacking a prexisting guidline or tutorial was an overextension of my abilities under the circumstances. Nonetheless, I learned a massive amount in regards to mechatronics.
 
 ## Project Image Reel
+
+
+## Custom Hardware
+All custom hardware was designed in Tinkercad.
+
+![](https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/basePlate.png)
