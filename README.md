@@ -22,6 +22,15 @@ In total there were 8 individual components comprised of a space heater, two smo
 
 ## Components
 
+### Dehumidifier 
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Dehumidifier/Dehumidifier%20Fan.PNG" width="200"/>
+
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Dehumidifier/Fan%20with%20Peltier%20Chip.PNG" width="200"/>
+
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Dehumidifier/Buck%20Converter.PNG
+" width="200"/>
+
+<img src="https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Electronics%20and%20Wirring/Dehumidifier/Fully%20Assemblyed%20Dehum.PNG" width="200"/>
 
 ## Custom Hardware
 All custom hardware was designed in Tinkercad.
