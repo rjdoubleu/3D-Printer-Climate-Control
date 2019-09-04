@@ -1,4 +1,5 @@
 # 3D-Printer-Climate-Control
+### (This repo is currently under construction)
 My project for embedded systems (Spring 2019) was to create a 3D printer enclosure with climate control. Although this project did not turn out as expected I still learned a lot about embedded system programming.
 
 ## Project Proposal
