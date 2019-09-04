@@ -17,4 +17,12 @@ In total there were 8 individual components comprised of a space heater, two smo
 ## Custom Hardware
 All custom hardware was designed in Tinkercad.
 
-![](https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/basePlate.png)
+![Base Plate](https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/basePlate.png)
+
+![PSU Mounting](https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/before.PNG)
+
+![Dehumidifier Enclosure](https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/dehumEnc.PNG)
+
+![Dehumidifier Fan Enclosure](https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/fan%20fitment%20p2.PNG)
+
+![Valve Stems](https://github.com/rjdoubleu/3D-Printer-Climate-Control/blob/master/Custom%203D%20Parts/valveStems.png) 
